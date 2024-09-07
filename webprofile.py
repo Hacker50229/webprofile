@@ -73,9 +73,9 @@ st.write("""
 # Contact Information
 st.subheader("📩 Connect with Me")
 st.write("""
-- 📩 jeerasakananta@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/jeerasak-ananta-a1b4231a2/)
-- 📖 [Medium](https://medium.com/@jeerasakananta_1762/about)
+- 📩 hacker28459@gmail.com
+- 🔗 ...
+- 📖 ...
 """)
 
 # GitHub Stats
