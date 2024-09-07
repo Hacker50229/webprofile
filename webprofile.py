@@ -66,7 +66,7 @@ st.image("https://skillicons.dev/icons?i=python,linux,cpp,js,java,php,anaconda",
 # Future Plans
 st.subheader("🔮 What in Future")
 st.write("""
-- [ ] Study Computer Science (2022-2026)
+- [ ] Study Chulalongkorn University (2027)
 - [ ] Working in ~~software development~~ AI&ML roles
 """)
 
