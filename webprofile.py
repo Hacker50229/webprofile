@@ -9,9 +9,6 @@ st.title("🔱 Whoami")
 # Introduction
 st.subheader("I'm Jeerasak Ananta (Game)")
 st.write("""
-- 2022 - Present 🧑 Student in Computer Science [CS RMUTL NAN](https://nan.rmutl.ac.th/)
-- 2024 - SuperAI Engineer Season 4
-- 2024 - Co-ops and internships LLM developer @ Bank for Agriculture and Agricultural Co-operatives ([BAAC](https://www.baac.or.th/en/))
 """)
 
 # Current Activities
