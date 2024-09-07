@@ -1,14 +1,17 @@
 import streamlit as st
 
 # Page configuration
-st.set_page_config(page_title="Jeerasak Ananta", page_icon="🔱")
+st.set_page_config(page_title="Jeerasak Ananta", page_icon="╰(*°▽°*)╯")
 
 # Title
 st.title("🔱 Whoami")
 
 # Introduction
-st.subheader("I'm Jeerasak Ananta (Game)")
+st.subheader("I'm Asawijak Sirivilat (Game)")
 st.write("""
+- 2021 - Present 🧑 Student in Debsirin school Mini english program (MEP)(https://www.debsirin.ac.th/index.php)
+- 2024 - SuperAI Engineer Season 4
+- 2024 - Co-ops and internships LLM developer @ Bank for Agriculture and Agricultural Co-operatives ([BAAC](https://www.baac.or.th/en/))
 """)
 
 # Current Activities
