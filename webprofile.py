@@ -17,10 +17,10 @@ st.write("""
 # Current Activities
 st.subheader("🧑‍💻 What I'm Doing Now")
 st.write("""
-- 💻 Studying Computer Science
-- 👨‍💻 For fun [Leet Code](https://tryhackme.com/)
-- 🚩 CTFs player [TryHackMe](https://leetcode.com/_JeerasaK_/)
-- 🐧 Linux lover
+- 💻 Studying Computer
+- 👨‍💻 For fun Rov game
+- 🚩 ...
+- 💬 Chat Gpt lover
 - 🤖 Learning anything with Machine Learning
 """)
 
